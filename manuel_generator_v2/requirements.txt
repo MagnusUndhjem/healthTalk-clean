@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+dateparser
+pydantic
+firecrawl           # Firecrawl-SDK
+google-auth
+google-auth-oauthlib
+google-api-python-client
+requests
+beautifulsoup4      # gir deg bs4-importen
+openai
+python-docx         # for Document()
