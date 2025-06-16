@@ -10,3 +10,4 @@ requests
 beautifulsoup4      # gir deg bs4-importen
 openai
 python-docx  
+PyPDF2
